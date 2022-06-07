@@ -1,0 +1,10 @@
+.modal-dialog {
+    height:60vh !important;
+}
+.modal-content{
+    height: 100%;
+
+}
+.form{
+    height:100%;
+}

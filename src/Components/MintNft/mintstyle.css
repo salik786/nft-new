@@ -1,0 +1,25 @@
+.mint-contain {
+  margin-top: 15vh;
+}
+
+.mint-btn {
+  background: #0f082aeb;
+  padding: 10px;
+  font-weight: 600;
+  color: white;
+  border: 1px solid #0f082aeb;
+}
+form {
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  padding: 20px;
+}
+.form-group {
+  margin-top: 10px;
+  width: 40vw;
+}
+.form-group > label {
+  margin-bottom: 10px;
+}
+.img-contain{
+    border-radius: 50%;
+}

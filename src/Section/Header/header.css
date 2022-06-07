@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam:wght@500&display=swap");
+
+h1,h2,p,body {
+    font-family: "Be Vietnam", sans-serif;
+  }
+  .sub{
+    width:60%;      
+  }
+  .title{
+  font-weight: 600;
+  width:90%;
+  }
+  .info1{
+    background-color: #1565D8;
+    color:white;
+    padding-top: 8%;
+    padding-left: 4%;
+  }
